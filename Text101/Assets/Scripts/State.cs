@@ -6,5 +6,10 @@ namespace Text101
     public class State : ScriptableObject
     {
         [TextArea(14, 10)] [SerializeField] private string _storyText;
+
+        public string GetStateStory()
+        {
+            return _storyText;
+        }
     }
 }
