@@ -17,19 +17,22 @@ MonoBehaviour:
     At
     least 10 of them guarding the hangar door. Typical.
 
-    
+
 
     Could try punching
     my way through. Or sneaking the long way to the
 
     emergency exit.
 
-    
+
 
     What
     should I do?
 
     1. Take them head on - rush the 10 guards.
 
-    2. Sneak
-    my way to the emergency exit.'
+    2. Sneak my
+    way to the emergency exit.'
+  _nextStates:
+  - {fileID: 11400000, guid: 238d4213c40737a488dd57b912caec67, type: 2}
+  - {fileID: 11400000, guid: f3cfaf876875bc843890623f143488e6, type: 2}
