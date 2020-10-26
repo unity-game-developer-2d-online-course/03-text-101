@@ -13,7 +13,7 @@ namespace Text101
             return _storyText;
         }
 
-        public State[] GetNextState()
+        public State[] GetNextStates()
         {
             return _nextStates;
         }
